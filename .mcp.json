@@ -1,0 +1,8 @@
+{
+    "servers": {
+        "MCP_POC": {
+            "type": "streamable",
+            "url": "http://localhost:9999"
+        }
+    }
+}
